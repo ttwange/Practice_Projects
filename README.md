@@ -1,4 +1,12 @@
-##BUILDING Fast QUERIES
+### PortfolioProject
+Data Analyst Portfolio Project Repository
+
+This Repository will hold all of the code and queries from the Portfolio Projects I create.
+
+The project will mainly be focused on data projects: 
+
+
+PROJECT1:BUILDING Fast QUERIES
 
 In this project I have worked on Jypter Notebook to implement better ways of optimizing data quesries.
 
@@ -44,3 +52,7 @@ It would be interesting for those customers to provide a way to find the cheapes
 For simplicity, focus only on the amount of RAM and hard drive capacity. You might need to convert those values to integers rather than using strings.
 In this guided project, we only explored three possible queries that we might want to do over the data. 
 In general, we often have a lot of different datasets to process and queries to answer. Designing such a class for every type of data in a business and implementing specific query methods takes a lot of time.
+
+PROJECT2: Covid Portfolio.sql
+on this project I worked on analyzing Covid 19 cases on SQL.
+
